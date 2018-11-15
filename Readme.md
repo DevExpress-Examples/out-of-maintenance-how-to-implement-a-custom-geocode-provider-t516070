@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomGeocodeProvider/Form1.cs) (VB: [Form1.vb](./VB/CustomGeocodeProvider/Form1.vb))
+<!-- default file list end -->
 # How to: Implement a Custom Geocode Provider
 
 
